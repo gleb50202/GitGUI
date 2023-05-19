@@ -11,5 +11,6 @@ int main(int argc, char **argv)
 
 	printf("Hello %s %s!\n", first, last);
 
+	printf("Hello world!\n");
 	return 0;
 }
